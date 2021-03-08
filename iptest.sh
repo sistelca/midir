@@ -7,3 +7,4 @@ git commit -m "act ip"
 git push origin main
 cd /home/luis/
  
+# chan chan
