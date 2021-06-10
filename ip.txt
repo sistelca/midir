@@ -1,1 +1,1 @@
-          Direc. inet:186.91.155.224  Difus.:186.91.159.255  Másc:255.255.224.0
+    inet 186.95.117.47/19 brd 186.95.127.255 scope global dynamic enp0s7
