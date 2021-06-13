@@ -1,1 +1,0 @@
-    inet 190.206.172.130/19 brd 190.206.191.255 scope global dynamic enp0s7
