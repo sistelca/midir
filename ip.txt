@@ -1,1 +1,1 @@
-    inet 186.89.49.190/19 brd 186.89.63.255 scope global dynamic enp0s7
+    inet 190.36.101.255/19 brd 190.36.127.255 scope global dynamic enp0s7
