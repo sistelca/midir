@@ -2,7 +2,7 @@
 
 VAR1=`/sbin/ip a l enp1s8 | grep "inet "`
 
-input="/home/luis/cibercom/midir/ip.txt"
+input="/home/luis/midir/ip.txt"
 
 VAR2=`/bin/cat $input`
 
