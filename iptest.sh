@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VAR1=`/sbin/ip a l enp1s8 | grep "inet "`
+VAR1=`/sbin/ip a l enp1s10 | grep "inet "`
 
 input="/home/luis/cibercom/midir/ip.txt"
 
