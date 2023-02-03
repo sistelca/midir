@@ -1,1 +1,1 @@
-    inet 190.206.164.30/19 brd 190.206.191.255 scope global dynamic noprefixroute enp1s10
+    inet 190.36.121.166/19 brd 190.36.127.255 scope global dynamic noprefixroute enp1s10
