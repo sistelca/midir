@@ -1,1 +1,1 @@
-    inet 186.95.136.75/19 metric 100 brd 186.95.159.255 scope global dynamic enp1s10
+    inet 186.95.157.80/19 metric 100 brd 186.95.159.255 scope global dynamic enp1s10
